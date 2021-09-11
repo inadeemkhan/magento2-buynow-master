@@ -2,6 +2,12 @@
 
 This module add "BuyNow" button on product view page and list page to process directly checkout.
 
+## Features:
+1. Admin can manage buy now button visibility.
+2. Button can be disply on the Category/Product Page.
+3. Bu clicking on this button, The product will ber add into Cart directly.
+4. User Friendly and Responsive.
+
 # Installation Instruction
 
 * Copy the content of the repo to the <b>app/code/Prince/Buynow/</b> folder
